@@ -1,0 +1,807 @@
+
+
+         OpenSees -- Open System For Earthquake Engineering Simulation
+                 Pacific Earthquake Engineering Research Center
+                        Version 2.5.0 (rev 6668) 32-Bit
+
+      (c) Copyright 1999-2016 The Regents of the University of California
+                              All Rights Reserved
+  (Copyright and Disclaimer @ http://www.berkeley.edu/OpenSees/copyright.html)
+
+
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T3 = 0.8739527646069929 s
+Roof drift = 1.002384e-03
+Roof drift = 2.002384e-03
+Roof drift = 3.002384e-03
+Roof drift = 4.002384e-03
+Roof drift = 5.002384e-03
+Roof drift = 6.002384e-03
+Roof drift = 7.002384e-03
+Roof drift = 8.002384e-03
+Roof drift = 9.002384e-03
+Roof drift = 1.000238e-02
+Roof drift = 1.100238e-02
+Roof drift = 1.200238e-02
+Roof drift = 1.300238e-02
+Roof drift = 1.400238e-02
+Roof drift = 1.500238e-02
+Roof drift = 1.600238e-02
+Roof drift = 1.700238e-02
+Roof drift = 1.800238e-02
+Roof drift = 1.900238e-02
+Roof drift = 2.000238e-02
+Roof drift = 2.100238e-02
+Roof drift = 2.200238e-02
+Roof drift = 2.300238e-02
+Roof drift = 2.400238e-02
+Roof drift = 2.500238e-02
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 100 iterations  current Norm: 106108 (max: 1e-05, Norm deltaR: 5.79018e+09)
+NewtnRaphson::solveCurrentStep() -the ConvergenceTest object failed in test()
+StaticAnalysis::analyze() - the Algorithm failed at iteration: 0 with domain at load factor -2307.71
+OpenSees > analyze failed, returned: -3 error flag
+Reducing step size (DIncr = 3.267000e+00)
+Increasing step size (DIncr = 6.534000e+00)
+Roof drift = 2.550238e-02
+Roof drift = 2.650238e-02
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 100 iterations  current Norm: 102056 (max: 1e-05, Norm deltaR: 3.40927e+08)
+NewtnRaphson::solveCurrentStep() -the ConvergenceTest object failed in test()
+StaticAnalysis::analyze() - the Algorithm failed at iteration: 0 with domain at load factor -760.304
+OpenSees > analyze failed, returned: -3 error flag
+Reducing step size (DIncr = 3.267000e+00)
+Increasing step size (DIncr = 6.534000e+00)
+Roof drift = 2.700238e-02
+Roof drift = 2.800238e-02
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 100 iterations  current Norm: 40093.2 (max: 1e-05, Norm deltaR: 1.61667e+07)
+NewtnRaphson::solveCurrentStep() -the ConvergenceTest object failed in test()
+StaticAnalysis::analyze() - the Algorithm failed at iteration: 0 with domain at load factor 285.769
+OpenSees > analyze failed, returned: -3 error flag
+Reducing step size (DIncr = 3.267000e+00)
+Increasing step size (DIncr = 6.534000e+00)
+Roof drift = 2.850238e-02
+Roof drift = 2.950238e-02
+Roof drift = 3.050238e-02
+Roof drift = 3.150238e-02
+Roof drift = 3.250238e-02
+Roof drift = 3.350238e-02
+Roof drift = 3.450238e-02
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 100 iterations  current Norm: 0.179936 (max: 1e-05, Norm deltaR: 146.331)
+NewtnRaphson::solveCurrentStep() -the ConvergenceTest object failed in test()
+StaticAnalysis::analyze() - the Algorithm failed at iteration: 0 with domain at load factor 92.069
+OpenSees > analyze failed, returned: -3 error flag
+Reducing step size (DIncr = 3.267000e+00)
+Increasing step size (DIncr = 6.534000e+00)
+Roof drift = 3.500238e-02
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 100 iterations  current Norm: 55667 (max: 1e-05, Norm deltaR: 1.92902e+07)
+NewtnRaphson::solveCurrentStep() -the ConvergenceTest object failed in test()
+StaticAnalysis::analyze() - the Algorithm failed at iteration: 0 with domain at load factor -68.9269
+OpenSees > analyze failed, returned: -3 error flag
+Reducing step size (DIncr = 3.267000e+00)
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 100 iterations  current Norm: 0.175601 (max: 1e-05, Norm deltaR: 150.486)
+NewtnRaphson::solveCurrentStep() -the ConvergenceTest object failed in test()
+StaticAnalysis::analyze() - the Algorithm failed at iteration: 0 with domain at load factor 92.0692
+OpenSees > analyze failed, returned: -3 error flag
+Trying Newton with Initial Tangent ..
+CTestNormDispIncr::test() - iteration: 1 current Norm: 0.0073681 (max: 0.0001, Norm deltaR: 176.978)
+CTestNormDispIncr::test() - iteration: 2 current Norm: 0.00532205 (max: 0.0001, Norm deltaR: 178.333)
+CTestNormDispIncr::test() - iteration: 3 current Norm: 0.00535079 (max: 0.0001, Norm deltaR: 179.438)
+CTestNormDispIncr::test() - iteration: 4 current Norm: 0.00525547 (max: 0.0001, Norm deltaR: 180.573)
+CTestNormDispIncr::test() - iteration: 5 current Norm: 0.00512571 (max: 0.0001, Norm deltaR: 181.662)
+CTestNormDispIncr::test() - iteration: 6 current Norm: 0.00497706 (max: 0.0001, Norm deltaR: 182.722)
+CTestNormDispIncr::test() - iteration: 7 current Norm: 0.00482047 (max: 0.0001, Norm deltaR: 183.701)
+CTestNormDispIncr::test() - iteration: 8 current Norm: 0.00466287 (max: 0.0001, Norm deltaR: 184.628)
+CTestNormDispIncr::test() - iteration: 9 current Norm: 0.00450842 (max: 0.0001, Norm deltaR: 185.497)
+CTestNormDispIncr::test() - iteration: 10 current Norm: 0.00435938 (max: 0.0001, Norm deltaR: 186.308)
+CTestNormDispIncr::test() - iteration: 11 current Norm: 0.00421687 (max: 0.0001, Norm deltaR: 187.065)
+CTestNormDispIncr::test() - iteration: 12 current Norm: 0.00408126 (max: 0.0001, Norm deltaR: 187.777)
+CTestNormDispIncr::test() - iteration: 13 current Norm: 0.00395254 (max: 0.0001, Norm deltaR: 188.41)
+CTestNormDispIncr::test() - iteration: 14 current Norm: 0.00383043 (max: 0.0001, Norm deltaR: 189.022)
+CTestNormDispIncr::test() - iteration: 15 current Norm: 0.00371457 (max: 0.0001, Norm deltaR: 189.567)
+CTestNormDispIncr::test() - iteration: 16 current Norm: 0.00360456 (max: 0.0001, Norm deltaR: 190.082)
+CTestNormDispIncr::test() - iteration: 17 current Norm: 0.00349996 (max: 0.0001, Norm deltaR: 190.522)
+CTestNormDispIncr::test() - iteration: 18 current Norm: 0.00340038 (max: 0.0001, Norm deltaR: 190.925)
+CTestNormDispIncr::test() - iteration: 19 current Norm: 0.00330545 (max: 0.0001, Norm deltaR: 191.288)
+CTestNormDispIncr::test() - iteration: 20 current Norm: 0.00321482 (max: 0.0001, Norm deltaR: 191.608)
+CTestNormDispIncr::test() - iteration: 21 current Norm: 0.00312819 (max: 0.0001, Norm deltaR: 191.89)
+CTestNormDispIncr::test() - iteration: 22 current Norm: 0.00304528 (max: 0.0001, Norm deltaR: 192.118)
+CTestNormDispIncr::test() - iteration: 23 current Norm: 0.00296583 (max: 0.0001, Norm deltaR: 192.311)
+CTestNormDispIncr::test() - iteration: 24 current Norm: 0.00288963 (max: 0.0001, Norm deltaR: 192.466)
+CTestNormDispIncr::test() - iteration: 25 current Norm: 0.00281646 (max: 0.0001, Norm deltaR: 192.586)
+CTestNormDispIncr::test() - iteration: 26 current Norm: 0.00274615 (max: 0.0001, Norm deltaR: 192.674)
+CTestNormDispIncr::test() - iteration: 27 current Norm: 0.00267854 (max: 0.0001, Norm deltaR: 192.719)
+CTestNormDispIncr::test() - iteration: 28 current Norm: 0.00261346 (max: 0.0001, Norm deltaR: 192.734)
+CTestNormDispIncr::test() - iteration: 29 current Norm: 0.00255079 (max: 0.0001, Norm deltaR: 192.732)
+CTestNormDispIncr::test() - iteration: 30 current Norm: 0.0024904 (max: 0.0001, Norm deltaR: 192.686)
+CTestNormDispIncr::test() - iteration: 31 current Norm: 0.00243218 (max: 0.0001, Norm deltaR: 192.611)
+CTestNormDispIncr::test() - iteration: 32 current Norm: 0.00237602 (max: 0.0001, Norm deltaR: 192.51)
+CTestNormDispIncr::test() - iteration: 33 current Norm: 0.00232182 (max: 0.0001, Norm deltaR: 192.382)
+CTestNormDispIncr::test() - iteration: 34 current Norm: 0.0022695 (max: 0.0001, Norm deltaR: 192.241)
+CTestNormDispIncr::test() - iteration: 35 current Norm: 0.00221897 (max: 0.0001, Norm deltaR: 192.06)
+CTestNormDispIncr::test() - iteration: 36 current Norm: 0.00217014 (max: 0.0001, Norm deltaR: 191.871)
+CTestNormDispIncr::test() - iteration: 37 current Norm: 0.00212296 (max: 0.0001, Norm deltaR: 191.647)
+CTestNormDispIncr::test() - iteration: 38 current Norm: 0.00207735 (max: 0.0001, Norm deltaR: 191.414)
+CTestNormDispIncr::test() - iteration: 39 current Norm: 0.00203325 (max: 0.0001, Norm deltaR: 191.156)
+CTestNormDispIncr::test() - iteration: 40 current Norm: 0.00199059 (max: 0.0001, Norm deltaR: 190.884)
+CTestNormDispIncr::test() - iteration: 41 current Norm: 0.00194932 (max: 0.0001, Norm deltaR: 190.589)
+CTestNormDispIncr::test() - iteration: 42 current Norm: 0.00190938 (max: 0.0001, Norm deltaR: 190.289)
+CTestNormDispIncr::test() - iteration: 43 current Norm: 0.00187073 (max: 0.0001, Norm deltaR: 189.96)
+CTestNormDispIncr::test() - iteration: 44 current Norm: 0.00183331 (max: 0.0001, Norm deltaR: 189.618)
+CTestNormDispIncr::test() - iteration: 45 current Norm: 0.00179707 (max: 0.0001, Norm deltaR: 189.27)
+CTestNormDispIncr::test() - iteration: 46 current Norm: 0.00176198 (max: 0.0001, Norm deltaR: 188.913)
+CTestNormDispIncr::test() - iteration: 47 current Norm: 0.001728 (max: 0.0001, Norm deltaR: 188.528)
+CTestNormDispIncr::test() - iteration: 48 current Norm: 0.00169507 (max: 0.0001, Norm deltaR: 188.147)
+CTestNormDispIncr::test() - iteration: 49 current Norm: 0.00166317 (max: 0.0001, Norm deltaR: 187.734)
+CTestNormDispIncr::test() - iteration: 50 current Norm: 0.00163225 (max: 0.0001, Norm deltaR: 187.334)
+CTestNormDispIncr::test() - iteration: 51 current Norm: 0.00160228 (max: 0.0001, Norm deltaR: 186.914)
+CTestNormDispIncr::test() - iteration: 52 current Norm: 0.00157323 (max: 0.0001, Norm deltaR: 186.492)
+CTestNormDispIncr::test() - iteration: 53 current Norm: 0.00154507 (max: 0.0001, Norm deltaR: 186.052)
+CTestNormDispIncr::test() - iteration: 54 current Norm: 0.00151776 (max: 0.0001, Norm deltaR: 185.609)
+CTestNormDispIncr::test() - iteration: 55 current Norm: 0.00149128 (max: 0.0001, Norm deltaR: 185.167)
+CTestNormDispIncr::test() - iteration: 56 current Norm: 0.00146559 (max: 0.0001, Norm deltaR: 184.706)
+CTestNormDispIncr::test() - iteration: 57 current Norm: 0.00144067 (max: 0.0001, Norm deltaR: 184.246)
+CTestNormDispIncr::test() - iteration: 58 current Norm: 0.00141649 (max: 0.0001, Norm deltaR: 183.778)
+CTestNormDispIncr::test() - iteration: 59 current Norm: 0.00139303 (max: 0.0001, Norm deltaR: 183.311)
+CTestNormDispIncr::test() - iteration: 60 current Norm: 0.00137026 (max: 0.0001, Norm deltaR: 182.837)
+CTestNormDispIncr::test() - iteration: 61 current Norm: 0.00134816 (max: 0.0001, Norm deltaR: 182.362)
+CTestNormDispIncr::test() - iteration: 62 current Norm: 0.00132671 (max: 0.0001, Norm deltaR: 181.867)
+CTestNormDispIncr::test() - iteration: 63 current Norm: 0.00130588 (max: 0.0001, Norm deltaR: 181.387)
+CTestNormDispIncr::test() - iteration: 64 current Norm: 0.00128566 (max: 0.0001, Norm deltaR: 180.888)
+CTestNormDispIncr::test() - iteration: 65 current Norm: 0.00126602 (max: 0.0001, Norm deltaR: 180.396)
+CTestNormDispIncr::test() - iteration: 66 current Norm: 0.00124694 (max: 0.0001, Norm deltaR: 179.905)
+CTestNormDispIncr::test() - iteration: 67 current Norm: 0.00122841 (max: 0.0001, Norm deltaR: 179.416)
+CTestNormDispIncr::test() - iteration: 68 current Norm: 0.0012104 (max: 0.0001, Norm deltaR: 178.916)
+CTestNormDispIncr::test() - iteration: 69 current Norm: 0.00119291 (max: 0.0001, Norm deltaR: 178.413)
+CTestNormDispIncr::test() - iteration: 70 current Norm: 0.0011759 (max: 0.0001, Norm deltaR: 177.917)
+CTestNormDispIncr::test() - iteration: 71 current Norm: 0.00115938 (max: 0.0001, Norm deltaR: 177.422)
+CTestNormDispIncr::test() - iteration: 72 current Norm: 0.00114331 (max: 0.0001, Norm deltaR: 176.905)
+CTestNormDispIncr::test() - iteration: 73 current Norm: 0.00112769 (max: 0.0001, Norm deltaR: 176.404)
+CTestNormDispIncr::test() - iteration: 74 current Norm: 0.0011125 (max: 0.0001, Norm deltaR: 175.925)
+CTestNormDispIncr::test() - iteration: 75 current Norm: 0.00109773 (max: 0.0001, Norm deltaR: 175.415)
+CTestNormDispIncr::test() - iteration: 76 current Norm: 0.00108336 (max: 0.0001, Norm deltaR: 174.914)
+CTestNormDispIncr::test() - iteration: 77 current Norm: 0.00106938 (max: 0.0001, Norm deltaR: 174.416)
+CTestNormDispIncr::test() - iteration: 78 current Norm: 0.00105578 (max: 0.0001, Norm deltaR: 173.91)
+CTestNormDispIncr::test() - iteration: 79 current Norm: 0.00104254 (max: 0.0001, Norm deltaR: 173.429)
+CTestNormDispIncr::test() - iteration: 80 current Norm: 0.00102965 (max: 0.0001, Norm deltaR: 172.929)
+CTestNormDispIncr::test() - iteration: 81 current Norm: 0.00101711 (max: 0.0001, Norm deltaR: 172.429)
+CTestNormDispIncr::test() - iteration: 82 current Norm: 0.0010049 (max: 0.0001, Norm deltaR: 171.924)
+CTestNormDispIncr::test() - iteration: 83 current Norm: 0.000993009 (max: 0.0001, Norm deltaR: 171.443)
+CTestNormDispIncr::test() - iteration: 84 current Norm: 0.000981427 (max: 0.0001, Norm deltaR: 170.966)
+CTestNormDispIncr::test() - iteration: 85 current Norm: 0.000970145 (max: 0.0001, Norm deltaR: 170.468)
+CTestNormDispIncr::test() - iteration: 86 current Norm: 0.000959152 (max: 0.0001, Norm deltaR: 169.977)
+CTestNormDispIncr::test() - iteration: 87 current Norm: 0.00094844 (max: 0.0001, Norm deltaR: 169.506)
+CTestNormDispIncr::test() - iteration: 88 current Norm: 0.000938001 (max: 0.0001, Norm deltaR: 169.018)
+CTestNormDispIncr::test() - iteration: 89 current Norm: 0.000927824 (max: 0.0001, Norm deltaR: 168.55)
+CTestNormDispIncr::test() - iteration: 90 current Norm: 0.000917902 (max: 0.0001, Norm deltaR: 168.059)
+CTestNormDispIncr::test() - iteration: 91 current Norm: 0.000908226 (max: 0.0001, Norm deltaR: 167.592)
+CTestNormDispIncr::test() - iteration: 92 current Norm: 0.00089879 (max: 0.0001, Norm deltaR: 167.131)
+CTestNormDispIncr::test() - iteration: 93 current Norm: 0.000889585 (max: 0.0001, Norm deltaR: 166.644)
+CTestNormDispIncr::test() - iteration: 94 current Norm: 0.000880603 (max: 0.0001, Norm deltaR: 166.193)
+CTestNormDispIncr::test() - iteration: 95 current Norm: 0.000871839 (max: 0.0001, Norm deltaR: 165.722)
+CTestNormDispIncr::test() - iteration: 96 current Norm: 0.000863284 (max: 0.0001, Norm deltaR: 165.266)
+CTestNormDispIncr::test() - iteration: 97 current Norm: 0.000854933 (max: 0.0001, Norm deltaR: 164.809)
+CTestNormDispIncr::test() - iteration: 98 current Norm: 0.000846778 (max: 0.0001, Norm deltaR: 164.359)
+CTestNormDispIncr::test() - iteration: 99 current Norm: 0.000838814 (max: 0.0001, Norm deltaR: 163.907)
+CTestNormDispIncr::test() - iteration: 100 current Norm: 0.000831036 (max: 0.0001, Norm deltaR: 163.455)
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 100 iterations  current Norm: 0.000831036 (max: 0.0001, Norm deltaR: 163.455)
+NewtnRaphson::solveCurrentStep() -the ConvergenceTest object failed in test()
+StaticAnalysis::analyze() - the Algorithm failed at iteration: 0 with domain at load factor 92.0677
+OpenSees > analyze failed, returned: -3 error flag
+Trying Broyden ..
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 10 iterations  current Norm: 0.977722 (max: 1e-05, Norm deltaR: 469284)
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 10 iterations  current Norm: 660.647 (max: 1e-05, Norm deltaR: 6.8705e+06)
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 10 iterations  current Norm: 346189 (max: 1e-05, Norm deltaR: 7.68744e+09)
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 10 iterations  current Norm: 1.90424e+12 (max: 1e-05, Norm deltaR: 1.63203e+23)
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 10 iterations  current Norm: 2.29307e+08 (max: 1e-05, Norm deltaR: 3.95196e+17)
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 10 iterations  current Norm: 2.61634e+08 (max: 1e-05, Norm deltaR: 3.43999e+19)
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 10 iterations  current Norm: 1.5966e+13 (max: 1e-05, Norm deltaR: 4.62913e+25)
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 10 iterations  current Norm: 6.94614e+14 (max: 1e-05, Norm deltaR: 9.88468e+28)
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 10 iterations  current Norm: 4.53981e+11 (max: 1e-05, Norm deltaR: 5.31418e+20)
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 10 iterations  current Norm: 3.39297e+06 (max: 1e-05, Norm deltaR: 2.77017e+13)
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 10 iterations  current Norm: 1.55032e+10 (max: 1e-05, Norm deltaR: 8.82956e+18)
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 10 iterations  current Norm: 2.98728e+11 (max: 1e-05, Norm deltaR: 7.87155e+22)
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 10 iterations  current Norm: 1.45881e+09 (max: 1e-05, Norm deltaR: 3.67e+17)
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 10 iterations  current Norm: 5.24441e+09 (max: 1e-05, Norm deltaR: 1.68314e+19)
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 10 iterations  current Norm: 5.04833e+07 (max: 1e-05, Norm deltaR: 8.22009e+15)
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 10 iterations  current Norm: 8.04346e+09 (max: 1e-05, Norm deltaR: 1.27146e+21)
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 10 iterations  current Norm: 3.83511e+10 (max: 1e-05, Norm deltaR: 1.75645e+20)
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 10 iterations  current Norm: 1.25467e+17 (max: 1e-05, Norm deltaR: 1.22265e+35)
+WARNING: CTestNormDispIncr::test() - failed to converge 
+after: 10 iterations  current Norm: 1.10314e+19 (max: 1e-05, Norm deltaR: 5.14701e+33)
+Increasing step size (DIncr = 6.534000e+00)
+Roof drift = -6.892561e+11
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Reducing step size (DIncr = 3.267000e+00)
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Newton with Initial Tangent ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Broyden ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying NewtonWithLineSearch ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Try ModifiedNewton
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Reducing step size (DIncr = 1.633500e+00)
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Newton with Initial Tangent ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Broyden ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying NewtonWithLineSearch ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Try ModifiedNewton
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Reducing step size (DIncr = 8.167500e-01)
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Newton with Initial Tangent ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Broyden ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying NewtonWithLineSearch ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Try ModifiedNewton
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Reducing step size (DIncr = 4.083750e-01)
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Newton with Initial Tangent ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Broyden ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying NewtonWithLineSearch ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Try ModifiedNewton
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Reducing step size (DIncr = 2.041875e-01)
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Newton with Initial Tangent ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Broyden ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying NewtonWithLineSearch ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Try ModifiedNewton
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Reducing step size (DIncr = 1.020937e-01)
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Newton with Initial Tangent ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Broyden ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying NewtonWithLineSearch ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Try ModifiedNewton
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Reducing step size (DIncr = 5.104687e-02)
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Newton with Initial Tangent ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Broyden ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying NewtonWithLineSearch ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Try ModifiedNewton
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Reducing step size (DIncr = 2.552344e-02)
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Newton with Initial Tangent ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Broyden ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying NewtonWithLineSearch ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Try ModifiedNewton
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Reducing step size (DIncr = 1.276172e-02)
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Newton with Initial Tangent ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Broyden ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying NewtonWithLineSearch ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Try ModifiedNewton
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Reducing step size (DIncr = 6.380859e-03)
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Newton with Initial Tangent ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Broyden ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying NewtonWithLineSearch ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Try ModifiedNewton
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Reducing step size (DIncr = 3.190430e-03)
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Newton with Initial Tangent ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Broyden ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying NewtonWithLineSearch ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Try ModifiedNewton
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Reducing step size (DIncr = 1.595215e-03)
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Newton with Initial Tangent ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Broyden ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying NewtonWithLineSearch ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Try ModifiedNewton
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Reducing step size (DIncr = 7.976074e-04)
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Newton with Initial Tangent ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Broyden ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying NewtonWithLineSearch ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Try ModifiedNewton
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Reducing step size (DIncr = 3.988037e-04)
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Newton with Initial Tangent ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Broyden ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying NewtonWithLineSearch ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Try ModifiedNewton
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Reducing step size (DIncr = 1.994019e-04)
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Newton with Initial Tangent ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Broyden ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying NewtonWithLineSearch ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Try ModifiedNewton
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Reducing step size (DIncr = 9.970093e-05)
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Newton with Initial Tangent ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Broyden ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying NewtonWithLineSearch ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Try ModifiedNewton
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Reducing step size (DIncr = 4.985046e-05)
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Newton with Initial Tangent ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Broyden ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying NewtonWithLineSearch ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Try ModifiedNewton
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Reducing step size (DIncr = 2.492523e-05)
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Newton with Initial Tangent ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Broyden ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying NewtonWithLineSearch ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Try ModifiedNewton
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Reducing step size (DIncr = 1.246262e-05)
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Newton with Initial Tangent ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Broyden ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying NewtonWithLineSearch ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Try ModifiedNewton
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Reducing step size (DIncr = 6.231308e-06)
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Newton with Initial Tangent ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Broyden ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying NewtonWithLineSearch ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Try ModifiedNewton
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Reducing step size (DIncr = 3.115654e-06)
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Newton with Initial Tangent ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Broyden ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying NewtonWithLineSearch ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Try ModifiedNewton
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Reducing step size (DIncr = 1.557827e-06)
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Newton with Initial Tangent ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying Broyden ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Trying NewtonWithLineSearch ..
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Try ModifiedNewton
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+WARNING BandGenLinLapackSolver::solve() -factorization failed, matrix singular U(i,i) = 0, i= 88
+DisplacementControl::newStep(void) - failed in solver
+StaticAnalysis::analyze() - the Integrator failed at iteration: 0 with domain at load factor -6.3101e+45
+OpenSees > analyze failed, returned: -2 error flag
+Roof drift = -6.892561e+11
+Analysis Failed!
+Process Terminating 0

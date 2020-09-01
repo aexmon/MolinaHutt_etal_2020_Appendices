@@ -1,0 +1,825 @@
+
+
+         OpenSees -- Open System For Earthquake Engineering Simulation
+                 Pacific Earthquake Engineering Research Center
+                        Version 2.5.0 (rev 6668) 32-Bit
+
+      (c) Copyright 1999-2016 The Regents of the University of California
+                              All Rights Reserved
+  (Copyright and Disclaimer @ http://www.berkeley.edu/OpenSees/copyright.html)
+
+
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+T1 = 4.079308075885122 s
+T2 = 1.3473830289569828 s
+T3 = 0.751252892793813 s
+T1 = 4.079308075885122 s
+T2 = 1.3473830289569828 s
+T3 = 0.751252892793813 s
+invalid bareword "storyLow"
+in expression "storyLow*10000+200";
+should be "$storyLow" or "{storyLow}" or "storyLow(...)" or ...
+    (parsing expression "storyLow*10000+200")
+    invoked from within
+"expr storyLow*10000+200"
+    ("for" body line 4)
+    invoked from within
+"for {set idx 0} {$idx < [llength $storyLows]} {incr idx} {
+	set storyLow [lindex $storyLows $idx];
+	set storyUp [lindex $storyUps $idx];
+	set nodeI [e..."
+    (file "buildRecorderDynamic.tcl" line 19)
+    invoked from within
+"source buildRecorderDynamic.tcl"
+    (file "/home/users/wyen/task5_0904_ZFrame/DynamicAnalysis.tcl" line 39)
+    invoked from within
+"source $userdirectory/DynamicAnalysis.tcl"
+    (body of "dict with")
+    invoked from within
+"dict with gminfo {
+            # gminfo = {$indir $gmdir $filename $dt $numpts $scalor}
+	
+            # Define and create the output directory
+       ..."
+    ("dict for" body line 3)
+    invoked from within
+"dict for {serial gminfo} $gminfo_dict {
+    if {[expr {$serial % $numprocs}] == $this_procid} {
+        dict with gminfo {
+            # gminfo = {$in..."
+    (file "/home/users/wyen/task5_0904_ZFrame/Main2.tcl" line 107)
+Process Terminating 2
+T1 = 4.079308075885122 s
+T2 = 1.3473830289569828 s
+T3 = 0.751252892793813 s
+T1 = 4.079308075885122 s
+T2 = 1.3473830289569828 s
+T3 = 0.751252892793813 s
+T1 = 4.079308075885122 s
+T2 = 1.3473830289569828 s
+T3 = 0.751252892793813 s
+T1 = 4.079308075885122 s
+T2 = 1.3473830289569828 s
+T3 = 0.751252892793813 s
+T1 = 4.079308075885122 s
+T2 = 1.3473830289569828 s
+T3 = 0.751252892793813 s
+T1 = 4.079308075885122 s
+T2 = 1.3473830289569828 s
+T3 = 0.751252892793813 s
+T1 = 4.079308075885122 s
+T2 = 1.3473830289569828 s
+T3 = 0.751252892793813 s
+T1 = 4.079308075885122 s
+T2 = 1.3473830289569828 s
+T3 = 0.751252892793813 s
+T1 = 4.079308075885122 s
+T2 = 1.3473830289569828 s
+T3 = 0.751252892793813 s
+T1 = 4.079308075885122 s
+T2 = 1.3473830289569828 s
+T3 = 0.751252892793813 s
+invalid bareword "storyLow"
+in expression "storyLow*10000+200";
+should be "$storyLow" or "{storyLow}" or "storyLow(...)" or ...
+    (parsing expression "storyLow*10000+200")
+    invoked from within
+"expr storyLow*10000+200"
+    ("for" body line 4)
+    invoked from within
+"for {set idx 0} {$idx < [llength $storyLows]} {incr idx} {
+	set storyLow [lindex $storyLows $idx];
+	set storyUp [lindex $storyUps $idx];
+	set nodeI [e..."
+    (file "buildRecorderDynamic.tcl" line 19)
+    invoked from within
+"source buildRecorderDynamic.tcl"
+    (file "/home/users/wyen/task5_0904_ZFrame/DynamicAnalysis.tcl" line 39)
+    invoked from within
+"source $userdirectory/DynamicAnalysis.tcl"
+    (body of "dict with")
+    invoked from within
+"dict with gminfo {
+            # gminfo = {$indir $gmdir $filename $dt $numpts $scalor}
+	
+            # Define and create the output directory
+       ..."
+    ("dict for" body line 3)
+    invoked from within
+"dict for {serial gminfo} $gminfo_dict {
+    if {[expr {$serial % $numprocs}] == $this_procid} {
+        dict with gminfo {
+            # gminfo = {$in..."
+    (file "/home/users/wyen/task5_0904_ZFrame/Main2.tcl" line 107)
+Process Terminating 7
+invalid bareword "storyLow"
+in expression "storyLow*10000+200";
+should be "$storyLow" or "{storyLow}" or "storyLow(...)" or ...
+    (parsing expression "storyLow*10000+200")
+    invoked from within
+"expr storyLow*10000+200"
+    ("for" body line 4)
+    invoked from within
+"for {set idx 0} {$idx < [llength $storyLows]} {incr idx} {
+	set storyLow [lindex $storyLows $idx];
+	set storyUp [lindex $storyUps $idx];
+	set nodeI [e..."
+    (file "buildRecorderDynamic.tcl" line 19)
+    invoked from within
+"source buildRecorderDynamic.tcl"
+    (file "/home/users/wyen/task5_0904_ZFrame/DynamicAnalysis.tcl" line 39)
+    invoked from within
+"source $userdirectory/DynamicAnalysis.tcl"
+    (body of "dict with")
+    invoked from within
+"dict with gminfo {
+            # gminfo = {$indir $gmdir $filename $dt $numpts $scalor}
+	
+            # Define and create the output directory
+       ..."
+    ("dict for" body line 3)
+    invoked from within
+"dict for {serial gminfo} $gminfo_dict {
+    if {[expr {$serial % $numprocs}] == $this_procid} {
+        dict with gminfo {
+            # gminfo = {$in..."
+    (file "/home/users/wyen/task5_0904_ZFrame/Main2.tcl" line 107)
+Process Terminating 5
+invalid bareword "storyLow"
+in expression "storyLow*10000+200";
+should be "$storyLow" or "{storyLow}" or "storyLow(...)" or ...
+    (parsing expression "storyLow*10000+200")
+    invoked from within
+"expr storyLow*10000+200"
+    ("for" body line 4)
+    invoked from within
+"for {set idx 0} {$idx < [llength $storyLows]} {incr idx} {
+	set storyLow [lindex $storyLows $idx];
+	set storyUp [lindex $storyUps $idx];
+	set nodeI [e..."
+    (file "buildRecorderDynamic.tcl" line 19)
+    invoked from within
+"source buildRecorderDynamic.tcl"
+    (file "/home/users/wyen/task5_0904_ZFrame/DynamicAnalysis.tcl" line 39)
+    invoked from within
+"source $userdirectory/DynamicAnalysis.tcl"
+    (body of "dict with")
+    invoked from within
+"dict with gminfo {
+            # gminfo = {$indir $gmdir $filename $dt $numpts $scalor}
+	
+            # Define and create the output directory
+       ..."
+    ("dict for" body line 3)
+    invoked from within
+"dict for {serial gminfo} $gminfo_dict {
+    if {[expr {$serial % $numprocs}] == $this_procid} {
+        dict with gminfo {
+            # gminfo = {$in..."
+    (file "/home/users/wyen/task5_0904_ZFrame/Main2.tcl" line 107)
+Process Terminating 11
+invalid bareword "storyLow"
+in expression "storyLow*10000+200";
+should be "$storyLow" or "{storyLow}" or "storyLow(...)" or ...
+    (parsing expression "storyLow*10000+200")
+    invoked from within
+"expr storyLow*10000+200"
+    ("for" body line 4)
+    invoked from within
+"for {set idx 0} {$idx < [llength $storyLows]} {incr idx} {
+	set storyLow [lindex $storyLows $idx];
+	set storyUp [lindex $storyUps $idx];
+	set nodeI [e..."
+    (file "buildRecorderDynamic.tcl" line 19)
+    invoked from within
+"source buildRecorderDynamic.tcl"
+    (file "/home/users/wyen/task5_0904_ZFrame/DynamicAnalysis.tcl" line 39)
+    invoked from within
+"source $userdirectory/DynamicAnalysis.tcl"
+    (body of "dict with")
+    invoked from within
+"dict with gminfo {
+            # gminfo = {$indir $gmdir $filename $dt $numpts $scalor}
+	
+            # Define and create the output directory
+       ..."
+    ("dict for" body line 3)
+    invoked from within
+"dict for {serial gminfo} $gminfo_dict {
+    if {[expr {$serial % $numprocs}] == $this_procid} {
+        dict with gminfo {
+            # gminfo = {$in..."
+    (file "/home/users/wyen/task5_0904_ZFrame/Main2.tcl" line 107)
+Process Terminating 9
+T1 = 4.079308075885122 s
+T2 = 1.3473830289569828 s
+T3 = 0.751252892793813 s
+invalid bareword "storyLow"
+in expression "storyLow*10000+200";
+should be "$storyLow" or "{storyLow}" or "storyLow(...)" or ...
+    (parsing expression "storyLow*10000+200")
+    invoked from within
+"expr storyLow*10000+200"
+    ("for" body line 4)
+    invoked from within
+"for {set idx 0} {$idx < [llength $storyLows]} {incr idx} {
+	set storyLow [lindex $storyLows $idx];
+	set storyUp [lindex $storyUps $idx];
+	set nodeI [e..."
+    (file "buildRecorderDynamic.tcl" line 19)
+    invoked from within
+"source buildRecorderDynamic.tcl"
+    (file "/home/users/wyen/task5_0904_ZFrame/DynamicAnalysis.tcl" line 39)
+    invoked from within
+"source $userdirectory/DynamicAnalysis.tcl"
+    (body of "dict with")
+    invoked from within
+"dict with gminfo {
+            # gminfo = {$indir $gmdir $filename $dt $numpts $scalor}
+	
+            # Define and create the output directory
+       ..."
+    ("dict for" body line 3)
+    invoked from within
+"dict for {serial gminfo} $gminfo_dict {
+invalid bareword "storyLow"
+in expression "storyLow*10000+200";
+should be "$storyLow" or "{storyLow}" or "storyLow(...)" or ...
+    (parsing expression "storyLow*10000+200")
+    invoked from within
+"expr storyLow*10000+200"
+    ("for" body line 4)
+    invoked from within
+"for {set idx 0} {$idx < [llength $storyLows]} {incr idx} {
+	set storyLow [lindex $storyLows $idx];
+	set storyUp [lindex $storyUps $idx];
+	set nodeI [e..."
+    (file "buildRecorderDynamic.tcl" line 19)
+    invoked from within
+"source buildRecorderDynamic.tcl"
+    (file "/home/users/wyen/task5_0904_ZFrame/DynamicAnalysis.tcl" line 39)
+    invoked from within
+"source $userdirectory/DynamicAnalysis.tcl"
+    (body of "dict with")
+    invoked from within
+"dict with gminfo {
+            # gminfo = {$indir $gmdir $filename $dt $numpts $scalor}
+	
+            # Define and create the output directory
+       ..."
+    ("dict for" body line 3)
+    invoked from within
+"dict for {serial gminfo} $gminfo_dict {
+    if {[expr {$serial % $numprocs}] == $this_procid} {
+        dict with gminfo {
+            # gminfo = {$in..."
+    (file "/home/users/wyen/task5_0904_ZFrame/Main2.tcl" line 107)
+Process Terminating 14
+    if {[expr {$serial % $numprocs}] == $this_procid} {
+        dict with gminfo {
+            # gminfo = {$in..."
+    (file "/home/users/wyen/task5_0904_ZFrame/Main2.tcl" line 107)
+Process Terminating 4
+invalid bareword "storyLow"
+in expression "storyLow*10000+200";
+should be "$storyLow" or "{storyLow}" or "storyLow(...)" or ...
+    (parsing expression "storyLow*10000+200")
+    invoked from within
+"expr storyLow*10000+200"
+    ("for" body line 4)
+    invoked from within
+"for {set idx 0} {$idx < [llength $storyLows]} {incr idx} {
+	set storyLow [lindex $storyLows $idx];
+	set storyUp [lindex $storyUps $idx];
+	set nodeI [e..."
+    (file "buildRecorderDynamic.tcl" line 19)
+    invoked from within
+"source buildRecorderDynamic.tcl"
+    (file "/home/users/wyen/task5_0904_ZFrame/DynamicAnalysis.tcl" line 39)
+    invoked from within
+"source $userdirectory/DynamicAnalysis.tcl"
+    (body of "dict with")
+    invoked from within
+"dict with gminfo {
+            # gminfo = {$indir $gmdir $filename $dt $numpts $scalor}
+	
+            # Define and create the output directory
+       ..."
+    ("dict for" body line 3)
+    invoked from within
+"dict for {serial gminfo} $gminfo_dict {
+    if {[expr {$serial % $numprocs}] == $this_procid} {
+        dict with gminfo {
+            # gminfo = {$in..."
+    (file "/home/users/wyen/task5_0904_ZFrame/Main2.tcl" line 107)
+Process Terminating 6
+T1 = 4.079308075885122 s
+T2 = 1.3473830289569828 s
+T3 = 0.751252892793813 s
+T1 = 4.079308075885122 s
+T2 = 1.3473830289569828 s
+T3 = 0.751252892793813 s
+invalid bareword "storyLow"
+in expression "storyLow*10000+200";
+should be "$storyLow" or "{storyLow}" or "storyLow(...)" or ...
+    (parsing expression "storyLow*10000+200")
+    invoked from within
+"expr storyLow*10000+200"
+    ("for" body line 4)
+    invoked from within
+"for {set idx 0} {$idx < [llength $storyLows]} {incr idx} {
+	set storyLow [lindex $storyLows $idx];
+	set storyUp [lindex $storyUps $idx];
+	set nodeI [e..."
+    (file "buildRecorderDynamic.tcl" line 19)
+    invoked from within
+"source buildRecorderDynamic.tcl"
+    (file "/home/users/wyen/task5_0904_ZFrame/DynamicAnalysis.tcl" line 39)
+    invoked from within
+"source $userdirectory/DynamicAnalysis.tcl"
+    (body of "dict with")
+    invoked from within
+"dict with gminfo {
+            # gminfo = {$indir $gmdir $filename $dt $numpts $scalor}
+	
+            # Define and create the output directory
+       ..."
+    ("dict for" body line 3)
+    invoked from within
+"dict for {serial gminfo} $gminfo_dict {
+    if {[expr {$serial % $numprocs}] == $this_procid} {
+        dict with gminfo {
+            # gminfo = {$in..."
+    (file "/home/users/wyen/task5_0904_ZFrame/Main2.tcl" line 107)
+Process Terminating 13
+invalid bareword "storyLow"
+in expression "storyLow*10000+200";
+should be "$storyLow" or "{storyLow}" or "storyLow(...)" or ...
+    (parsing expression "storyLow*10000+200")
+    invoked from within
+"expr storyLow*10000+200"
+    ("for" body line 4)
+    invoked from within
+"for {set idx 0} {$idx < [llength $storyLows]} {incr idx} {
+	set storyLow [lindex $storyLows $idx];
+	set storyUp [lindex $storyUps $idx];
+	set nodeI [e..."
+    (file "buildRecorderDynamic.tcl" line 19)
+    invoked from within
+"source buildRecorderDynamic.tcl"
+    (file "/home/users/wyen/task5_0904_ZFrame/DynamicAnalysis.tcl" line 39)
+    invoked from within
+"source $userdirectory/DynamicAnalysis.tcl"
+    (body of "dict with")
+    invoked from within
+"dict with gminfo {
+            # gminfo = {$indir $gmdir $filename $dt $numpts $scalor}
+	
+            # Define and create the output directory
+       ..."
+    ("dict for" body line 3)
+    invoked from within
+"dict for {serial gminfo} $gminfo_dict {
+    if {[expr {$serial % $numprocs}] == $this_procid} {
+        dict with gminfo {
+            # gminfo = {$in..."
+    (file "/home/users/wyen/task5_0904_ZFrame/Main2.tcl" line 107)
+Process Terminating 12
+T1 = 4.079308075885122 s
+T2 = 1.3473830289569828 s
+T3 = 0.751252892793813 s
+invalid bareword "storyLow"
+in expression "storyLow*10000+200";
+should be "$storyLow" or "{storyLow}" or "storyLow(...)" or ...
+    (parsing expression "storyLow*10000+200")
+    invoked from within
+"expr storyLow*10000+200"
+    ("for" body line 4)
+    invoked from within
+"for {set idx 0} {$idx < [llength $storyLows]} {incr idx} {
+	set storyLow [lindex $storyLows $idx];
+	set storyUp [lindex $storyUps $idx];
+	set nodeI [e..."
+    (file "buildRecorderDynamic.tcl" line 19)
+    invoked from within
+"source buildRecorderDynamic.tcl"
+    (file "/home/users/wyen/task5_0904_ZFrame/DynamicAnalysis.tcl" line 39)
+    invoked from within
+"source $userdirectory/DynamicAnalysis.tcl"
+    (body of "dict with")
+    invoked from within
+"dict with gminfo {
+            # gminfo = {$indir $gmdir $filename $dt $numpts $scalor}
+	
+            # Define and create the output directory
+       ..."
+    ("dict for" body line 3)
+    invoked from within
+"dict for {serial gminfo} $gminfo_dict {
+    if {[expr {$serial % $numprocs}] == $this_procid} {
+        dict with gminfo {
+            # gminfo = {$in..."
+    (file "/home/users/wyen/task5_0904_ZFrame/Main2.tcl" line 107)
+Process Terminating 16
+invalid bareword "storyLow"
+in expression "storyLow*10000+200";
+should be "$storyLow" or "{storyLow}" or "storyLow(...)" or ...
+    (parsing expression "storyLow*10000+200")
+    invoked from within
+"expr storyLow*10000+200"
+    ("for" body line 4)
+    invoked from within
+"for {set idx 0} {$idx < [llength $storyLows]} {incr idx} {
+	set storyLow [lindex $storyLows $idx];
+	set storyUp [lindex $storyUps $idx];
+	set nodeI [e..."
+    (file "buildRecorderDynamic.tcl" line 19)
+    invoked from within
+"source buildRecorderDynamic.tcl"
+    (file "/home/users/wyen/task5_0904_ZFrame/DynamicAnalysis.tcl" line 39)
+    invoked from within
+"source $userdirectory/DynamicAnalysis.tcl"
+    (body of "dict with")
+    invoked from within
+"dict with gminfo {
+            # gminfo = {$indir $gmdir $filename $dt $numpts $scalor}
+	
+            # Define and create the output directory
+       ..."
+    ("dict for" body line 3)
+    invoked from within
+"dict for {serial gminfo} $gminfo_dict {
+    if {[expr {$serial % $numprocs}] == $this_procid} {
+        dict with gminfo {
+            # gminfo = {$in..."
+    (file "/home/users/wyen/task5_0904_ZFrame/Main2.tcl" line 107)
+Process Terminating 10
+invalid bareword "storyLow"
+in expression "storyLow*10000+200";
+should be "$storyLow" or "{storyLow}" or "storyLow(...)" or ...
+    (parsing expression "storyLow*10000+200")
+    invoked from within
+"expr storyLow*10000+200"
+    ("for" body line 4)
+    invoked from within
+"for {set idx 0} {$idx < [llength $storyLows]} {incr idx} {
+	set storyLow [lindex $storyLows $idx];
+	set storyUp [lindex $storyUps $idx];
+	set nodeI [e..."
+    (file "buildRecorderDynamic.tcl" line 19)
+    invoked from within
+"source buildRecorderDynamic.tcl"
+    (file "/home/users/wyen/task5_0904_ZFrame/DynamicAnalysis.tcl" line 39)
+    invoked from within
+"source $userdirectory/DynamicAnalysis.tcl"
+    (body of "dict with")
+    invoked from within
+"dict with gminfo {
+            # gminfo = {$indir $gmdir $filename $dt $numpts $scalor}
+	
+            # Define and create the output directory
+       ..."
+    ("dict for" body line 3)
+    invoked from within
+"dict for {serial gminfo} $gminfo_dict {
+    if {[expr {$serial % $numprocs}] == $this_procid} {
+        dict with gminfo {
+            # gminfo = {$in..."
+    (file "/home/users/wyen/task5_0904_ZFrame/Main2.tcl" line 107)
+Process Terminating 15
+T1 = 4.079308075885122 s
+T2 = 1.3473830289569828 s
+T3 = 0.751252892793813 s
+T1 = 4.079308075885122 s
+T2 = 1.3473830289569828 s
+T3 = 0.751252892793813 s
+invalid bareword "storyLow"
+in expression "storyLow*10000+200";
+should be "$storyLow" or "{storyLow}" or "storyLow(...)" or ...
+    (parsing expression "storyLow*10000+200")
+    invoked from within
+"expr storyLow*10000+200"
+    ("for" body line 4)
+    invoked from within
+"for {set idx 0} {$idx < [llength $storyLows]} {incr idx} {
+	set storyLow [lindex $storyLows $idx];
+	set storyUp [lindex $storyUps $idx];
+	set nodeI [e..."
+    (file "buildRecorderDynamic.tcl" line 19)
+    invoked from within
+"source buildRecorderDynamic.tcl"
+    (file "/home/users/wyen/task5_0904_ZFrame/DynamicAnalysis.tcl" line 39)
+    invoked from within
+"source $userdirectory/DynamicAnalysis.tcl"
+    (body of "dict with")
+    invoked from within
+"dict with gminfo {
+            # gminfo = {$indir $gmdir $filename $dt $numpts $scalor}
+	
+            # Define and create the output directory
+       ..."
+    ("dict for" body line 3)
+    invoked from within
+"dict for {serial gminfo} $gminfo_dict {
+    if {[expr {$serial % $numprocs}] == $this_procid} {
+        dict with gminfo {
+            # gminfo = {$in..."
+    (file "/home/users/wyen/task5_0904_ZFrame/Main2.tcl" line 107)
+Process Terminating 8
+invalid bareword "storyLow"
+in expression "storyLow*10000+200";
+should be "$storyLow" or "{storyLow}" or "storyLow(...)" or ...
+    (parsing expression "storyLow*10000+200")
+    invoked from within
+"expr storyLow*10000+200"
+    ("for" body line 4)
+    invoked from within
+"for {set idx 0} {$idx < [llength $storyLows]} {incr idx} {
+	set storyLow [lindex $storyLows $idx];
+	set storyUp [lindex $storyUps $idx];
+	set nodeI [e..."
+    (file "buildRecorderDynamic.tcl" line 19)
+    invoked from within
+"source buildRecorderDynamic.tcl"
+    (file "/home/users/wyen/task5_0904_ZFrame/DynamicAnalysis.tcl" line 39)
+    invoked from within
+"source $userdirectory/DynamicAnalysis.tcl"
+    (body of "dict with")
+    invoked from within
+"dict with gminfo {
+            # gminfo = {$indir $gmdir $filename $dt $numpts $scalor}
+	
+            # Define and create the output directory
+       ..."
+    ("dict for" body line 3)
+    invoked from within
+"dict for {serial gminfo} $gminfo_dict {
+    if {[expr {$serial % $numprocs}] == $this_procid} {
+        dict with gminfo {
+            # gminfo = {$in..."
+    (file "/home/users/wyen/task5_0904_ZFrame/Main2.tcl" line 107)
+Process Terminating 18
+invalid bareword "storyLow"
+in expression "storyLow*10000+200";
+should be "$storyLow" or "{storyLow}" or "storyLow(...)" or ...
+    (parsing expression "storyLow*10000+200")
+    invoked from within
+"expr storyLow*10000+200"
+    ("for" body line 4)
+    invoked from within
+"for {set idx 0} {$idx < [llength $storyLows]} {incr idx} {
+	set storyLow [lindex $storyLows $idx];
+	set storyUp [lindex $storyUps $idx];
+	set nodeI [e..."
+    (file "buildRecorderDynamic.tcl" line 19)
+    invoked from within
+"source buildRecorderDynamic.tcl"
+    (file "/home/users/wyen/task5_0904_ZFrame/DynamicAnalysis.tcl" line 39)
+    invoked from within
+"source $userdirectory/DynamicAnalysis.tcl"
+    (body of "dict with")
+    invoked from within
+"dict with gminfo {
+            # gminfo = {$indir $gmdir $filename $dt $numpts $scalor}
+	
+            # Define and create the output directory
+       ..."
+    ("dict for" body line 3)
+    invoked from within
+"dict for {serial gminfo} $gminfo_dict {
+    if {[expr {$serial % $numprocs}] == $this_procid} {
+        dict with gminfo {
+            # gminfo = {$in..."
+    (file "/home/users/wyen/task5_0904_ZFrame/Main2.tcl" line 107)
+Process Terminating 20
+invalid bareword "storyLow"
+in expression "storyLow*10000+200";
+should be "$storyLow" or "{storyLow}" or "storyLow(...)" or ...
+    (parsing expression "storyLow*10000+200")
+    invoked from within
+"expr storyLow*10000+200"
+    ("for" body line 4)
+    invoked from within
+"for {set idx 0} {$idx < [llength $storyLows]} {incr idx} {
+	set storyLow [lindex $storyLows $idx];
+	set storyUp [lindex $storyUps $idx];
+	set nodeI [e..."
+    (file "buildRecorderDynamic.tcl" line 19)
+    invoked from within
+"source buildRecorderDynamic.tcl"
+    (file "/home/users/wyen/task5_0904_ZFrame/DynamicAnalysis.tcl" line 39)
+    invoked from within
+"source $userdirectory/DynamicAnalysis.tcl"
+    (body of "dict with")
+    invoked from within
+"dict with gminfo {
+            # gminfo = {$indir $gmdir $filename $dt $numpts $scalor}
+	
+            # Define and create the output directory
+       ..."
+    ("dict for" body line 3)
+    invoked from within
+"dict for {serial gminfo} $gminfo_dict {
+    if {[expr {$serial % $numprocs}] == $this_procid} {
+        dict with gminfo {
+            # gminfo = {$in..."
+    (file "/home/users/wyen/task5_0904_ZFrame/Main2.tcl" line 107)
+Process Terminating 19
+invalid bareword "storyLow"
+in expression "storyLow*10000+200";
+should be "$storyLow" or "{storyLow}" or "storyLow(...)" or ...
+    (parsing expression "storyLow*10000+200")
+    invoked from within
+"expr storyLow*10000+200"
+    ("for" body line 4)
+    invoked from within
+"for {set idx 0} {$idx < [llength $storyLows]} {incr idx} {
+	set storyLow [lindex $storyLows $idx];
+	set storyUp [lindex $storyUps $idx];
+	set nodeI [e..."
+    (file "buildRecorderDynamic.tcl" line 19)
+    invoked from within
+"source buildRecorderDynamic.tcl"
+    (file "/home/users/wyen/task5_0904_ZFrame/DynamicAnalysis.tcl" line 39)
+    invoked from within
+"source $userdirectory/DynamicAnalysis.tcl"
+    (body of "dict with")
+    invoked from within
+"dict with gminfo {
+            # gminfo = {$indir $gmdir $filename $dt $numpts $scalor}
+	
+            # Define and create the output directory
+       ..."
+    ("dict for" body line 3)
+    invoked from within
+"dict for {serial gminfo} $gminfo_dict {
+    if {[expr {$serial % $numprocs}] == $this_procid} {
+        dict with gminfo {
+            # gminfo = {$in..."
+    (file "/home/users/wyen/task5_0904_ZFrame/Main2.tcl" line 107)
+Process Terminating 17
+T1 = 4.079308075885122 s
+T2 = 1.3473830289569828 s
+T3 = 0.751252892793813 s
+invalid bareword "storyLow"
+in expression "storyLow*10000+200";
+should be "$storyLow" or "{storyLow}" or "storyLow(...)" or ...
+    (parsing expression "storyLow*10000+200")
+    invoked from within
+"expr storyLow*10000+200"
+    ("for" body line 4)
+    invoked from within
+"for {set idx 0} {$idx < [llength $storyLows]} {incr idx} {
+	set storyLow [lindex $storyLows $idx];
+	set storyUp [lindex $storyUps $idx];
+	set nodeI [e..."
+    (file "buildRecorderDynamic.tcl" line 19)
+    invoked from within
+"source buildRecorderDynamic.tcl"
+    (file "/home/users/wyen/task5_0904_ZFrame/DynamicAnalysis.tcl" line 39)
+    invoked from within
+"source $userdirectory/DynamicAnalysis.tcl"
+    (body of "dict with")
+    invoked from within
+"dict with gminfo {
+            # gminfo = {$indir $gmdir $filename $dt $numpts $scalor}
+	
+            # Define and create the output directory
+       ..."
+    ("dict for" body line 3)
+    invoked from within
+"dict for {serial gminfo} $gminfo_dict {
+    if {[expr {$serial % $numprocs}] == $this_procid} {
+        dict with gminfo {
+            # gminfo = {$in..."
+    (file "/home/users/wyen/task5_0904_ZFrame/Main2.tcl" line 107)
+Process Terminating 3
+T1 = 4.079308075885122 s
+T2 = 1.3473830289569828 s
+T3 = 0.751252892793813 s
+invalid bareword "storyLow"
+in expression "storyLow*10000+200";
+should be "$storyLow" or "{storyLow}" or "storyLow(...)" or ...
+    (parsing expression "storyLow*10000+200")
+    invoked from within
+"expr storyLow*10000+200"
+    ("for" body line 4)
+    invoked from within
+"for {set idx 0} {$idx < [llength $storyLows]} {incr idx} {
+	set storyLow [lindex $storyLows $idx];
+	set storyUp [lindex $storyUps $idx];
+	set nodeI [e..."
+    (file "buildRecorderDynamic.tcl" line 19)
+    invoked from within
+"source buildRecorderDynamic.tcl"
+    (file "/home/users/wyen/task5_0904_ZFrame/DynamicAnalysis.tcl" line 39)
+    invoked from within
+"source $userdirectory/DynamicAnalysis.tcl"
+    (body of "dict with")
+    invoked from within
+"dict with gminfo {
+            # gminfo = {$indir $gmdir $filename $dt $numpts $scalor}
+	
+            # Define and create the output directory
+       ..."
+    ("dict for" body line 3)
+    invoked from within
+"dict for {serial gminfo} $gminfo_dict {
+    if {[expr {$serial % $numprocs}] == $this_procid} {
+        dict with gminfo {
+            # gminfo = {$in..."
+    (file "/home/users/wyen/task5_0904_ZFrame/Main2.tcl" line 107)
+Process Terminating 1
+T1 = 4.079308075885122 s
+T2 = 1.3473830289569828 s
+T3 = 0.751252892793813 s
+T1 = 4.079308075885122 s
+T2 = 1.3473830289569828 s
+T3 = 0.751252892793813 s
+invalid bareword "storyLow"
+in expression "storyLow*10000+200";
+should be "$storyLow" or "{storyLow}" or "storyLow(...)" or ...
+    (parsing expression "storyLow*10000+200")
+    invoked from within
+"expr storyLow*10000+200"
+    ("for" body line 4)
+    invoked from within
+"for {set idx 0} {$idx < [llength $storyLows]} {incr idx} {
+	set storyLow [lindex $storyLows $idx];
+	set storyUp [lindex $storyUps $idx];
+	set nodeI [e..."
+    (file "buildRecorderDynamic.tcl" line 19)
+    invoked from within
+"source buildRecorderDynamic.tcl"
+    (file "/home/users/wyen/task5_0904_ZFrame/DynamicAnalysis.tcl" line 39)
+    invoked from within
+"source $userdirectory/DynamicAnalysis.tcl"
+    (body of "dict with")
+    invoked from within
+"dict with gminfo {
+            # gminfo = {$indir $gmdir $filename $dt $numpts $scalor}
+	
+            # Define and create the output directory
+       ..."
+    ("dict for" body line 3)
+    invoked from within
+"dict for {serial gminfo} $gminfo_dict {
+    if {[expr {$serial % $numprocs}] == $this_procid} {
+        dict with gminfo {
+            # gminfo = {$in..."
+    (file "/home/users/wyen/task5_0904_ZFrame/Main2.tcl" line 107)
+Process Terminating 0
+invalid bareword "storyLow"
+in expression "storyLow*10000+200";
+should be "$storyLow" or "{storyLow}" or "storyLow(...)" or ...
+    (parsing expression "storyLow*10000+200")
+    invoked from within
+"expr storyLow*10000+200"
+    ("for" body line 4)
+    invoked from within
+"for {set idx 0} {$idx < [llength $storyLows]} {incr idx} {
+	set storyLow [lindex $storyLows $idx];
+	set storyUp [lindex $storyUps $idx];
+	set nodeI [e..."
+    (file "buildRecorderDynamic.tcl" line 19)
+    invoked from within
+"source buildRecorderDynamic.tcl"
+    (file "/home/users/wyen/task5_0904_ZFrame/DynamicAnalysis.tcl" line 39)
+    invoked from within
+"source $userdirectory/DynamicAnalysis.tcl"
+    (body of "dict with")
+    invoked from within
+"dict with gminfo {
+            # gminfo = {$indir $gmdir $filename $dt $numpts $scalor}
+	
+            # Define and create the output directory
+       ..."
+    ("dict for" body line 3)
+    invoked from within
+"dict for {serial gminfo} $gminfo_dict {
+    if {[expr {$serial % $numprocs}] == $this_procid} {
+        dict with gminfo {
+            # gminfo = {$in..."
+    (file "/home/users/wyen/task5_0904_ZFrame/Main2.tcl" line 107)
+Process Terminating 21
