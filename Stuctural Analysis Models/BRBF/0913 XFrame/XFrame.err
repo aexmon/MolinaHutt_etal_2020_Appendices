@@ -1,0 +1,187 @@
+
+
+         OpenSees -- Open System For Earthquake Engineering Simulation
+                 Pacific Earthquake Engineering Research Center
+                        Version 2.5.0 (rev 6668) 32-Bit
+
+      (c) Copyright 1999-2016 The Regents of the University of California
+                              All Rights Reserved
+  (Copyright and Disclaimer @ http://www.berkeley.edu/OpenSees/copyright.html)
+
+
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+Modified Ibarra-Medina-Krawinkler Model with Bilinear Hysteretic Response
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T3 = 0.8739527646069929 s
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T3 = 0.8739527646069929 s
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T3 = 0.8739527646069929 s
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T3 = 0.8739527646069929 s
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T3 = 0.8739527646069929 s
+T3 = 0.8739527646069929 s
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T3 = 0.8739527646069929 s
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T3 = 0.8739527646069929 s
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T3 = 0.8739527646069929 s
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T3 = 0.8739527646069929 s
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T3 = 0.8739527646069929 s
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T3 = 0.8739527646069929 s
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T3 = 0.8739527646069929 s
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T3 = 0.8739527646069929 s
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T3 = 0.8739527646069929 s
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T3 = 0.8739527646069929 s
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T3 = 0.8739527646069929 s
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T3 = 0.8739527646069929 s
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T3 = 0.8739527646069929 s
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T3 = 0.8739527646069929 s
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T3 = 0.8739527646069929 s
+T1 = 4.533264013604126 s
+T2 = 1.5471196270549998 s
+T3 = 0.8739527646069929 s
+T1 = 4.533264013604123 s
+T2 = 1.5471196270550025 s
+T3 = 0.8739527646069991 s
+T1 = 4.533264013604123 s
+T2 = 1.5471196270550025 s
+T3 = 0.8739527646069991 s
+T1 = 4.533264013604123 s
+T2 = 1.5471196270550025 s
+T3 = 0.8739527646069991 s
+T1 = 4.533264013604123 s
+T2 = 1.5471196270550025 s
+T3 = 0.8739527646069991 s
+T1 = 4.533264013604123 s
+T2 = 1.5471196270550025 s
+T3 = 0.8739527646069991 s
+T1 = 4.533264013604123 s
+T2 = 1.5471196270550025 s
+T3 = 0.8739527646069991 s
+T1 = 4.533264013604123 s
+T2 = 1.5471196270550025 s
+T3 = 0.8739527646069991 s
+T1 = 4.533264013604123 s
+T2 = 1.5471196270550025 s
+T3 = 0.8739527646069991 s
+T1 = 4.533264013604123 s
+T2 = 1.5471196270550025 s
+T3 = 0.8739527646069991 s
+T1 = 4.533264013604123 s
+T2 = 1.5471196270550025 s
+T3 = 0.8739527646069991 s
+T1 = 4.533264013604123 s
+T2 = 1.5471196270550025 s
+T3 = 0.8739527646069991 s
+Process Terminating 18
+Process Terminating 7
+Process Terminating 15
+Process Terminating 4
+T1 = 4.533264013604123 s
+T2 = 1.5471196270550025 s
+T3 = 0.8739527646069991 s
+T1 = 4.533264013604123 s
+T2 = 1.5471196270550025 s
+T3 = 0.8739527646069991 s
+T1 = 4.533264013604123 s
+T2 = 1.5471196270550025 s
+T3 = 0.8739527646069991 s
+T1 = 4.533264013604123 s
+T2 = 1.5471196270550025 s
+T3 = 0.8739527646069991 s
+T1 = 4.533264013604123 s
+T2 = 1.5471196270550025 s
+T3 = 0.8739527646069991 s
+T1 = 4.533264013604123 s
+T2 = 1.5471196270550025 s
+T3 = 0.8739527646069991 s
+T1 = 4.533264013604123 s
+T2 = 1.5471196270550025 s
+T3 = 0.8739527646069991 s
+Process Terminating 10
+Process Terminating 21
+T1 = 4.533264013604123 s
+T2 = 1.5471196270550025 s
+T3 = 0.8739527646069991 s
+T1 = 4.533264013604123 s
+T2 = 1.5471196270550025 s
+T3 = 0.8739527646069991 s
+Process Terminating 9
+Process Terminating 20
+Process Terminating 8
+Process Terminating 19
+Process Terminating 11
+Process Terminating 0
+Process Terminating 2
+Process Terminating 14
+Process Terminating 1
+Process Terminating 12
+Process Terminating 13
+Process Terminating 3
+Process Terminating 17
+Process Terminating 6
+T1 = 4.533264013604123 s
+T2 = 1.5471196270550025 s
+T3 = 0.8739527646069991 s
+T1 = 4.533264013604123 s
+T2 = 1.5471196270550025 s
+T3 = 0.8739527646069991 s
+Process Terminating 5
+Process Terminating 16
